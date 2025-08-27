@@ -9,7 +9,7 @@ export default function HomeScreen() {
       <View>
         <Text
           style={{
-            color: "#EAEAEA",
+            // color: "#EAEAEA",
             fontSize: 24,
             fontWeight: "bold",
             textAlign: "center",
