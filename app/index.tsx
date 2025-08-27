@@ -12,7 +12,7 @@ export default function HomeScreen() {
             color: "#EAEAEA",
             fontSize: 24,
             fontWeight: "bold",
-            textAlign: "center",
+            // textAlign: "center",
           }}
         >
           {displayValue}
